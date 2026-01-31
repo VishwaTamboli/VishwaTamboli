@@ -6,6 +6,7 @@
 VishwaTamboli/VishwaTamboli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Internship Project
 # Dr. Kavita Rao Eye Care Website 👁️
 
 A professional, responsive medical practice website developed to enhance the digital presence of an eye care specialist. This project focuses on user experience, appointment accessibility, and clean clinical aesthetics.
