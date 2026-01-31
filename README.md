@@ -16,14 +16,13 @@ A professional, responsive medical practice website developed to enhance the dig
 ---
 
 ## 🚀 Key Features
-* **Responsive Medical UI:** Fully mobile-friendly design using Bootstrap/CSS for patients on the go.
+* **Responsive Medical UI:** Fully mobile-friendly design using Wordpress for patients on the go.
 * **Service Catalog:** Organized sections for different eye treatments and diagnostic services.
 * **Appointment Call-to-Action:** Optimized user flow to encourage patient inquiries and bookings.
-* **Performance Optimized:** Fast loading times and SEO-friendly structure to help local search rankings.
 
 ## 🛠️ Tech Stack
-* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-* **Tools:** VS Code, Git
+* **Frontend:** Wordpress
+* **Tools:** VS Code
 
 ## 📈 My Contribution & Impact
 As the primary developer on this project, I was responsible for:
@@ -33,3 +32,34 @@ As the primary developer on this project, I was responsible for:
 
 ---
 
+# Dr. Ganesh Arthroscopy & Sports Medicine Website 🏥⚽
+
+A high-performance, specialized medical platform developed for an Orthopedic and Arthroscopy surgeon. This project focuses on presenting complex medical procedures in a user-friendly manner while maintaining a fast, professional, and accessible interface.
+
+**Live Demo:** https://www.drganesharthroscopy.com/
+
+---
+
+## 💼 Internship Project Highlights
+I developed this website during my **3-month Web Development Internship**. It required a deep understanding of medical service architecture and the ability to organize vast amounts of clinical information into a navigable patient experience.
+
+**Core Responsibilities:**
+* **Information Architecture:** Structured complex orthopedic categories (Knee, Shoulder, Hip, Sports Medicine) for easy patient navigation.
+* **Responsive Engineering:** Ensured the medical gallery and procedure details are fully accessible across all mobile and desktop devices.
+* **Performance Tuning:** Optimized image assets and scripts to ensure fast load times for patients in areas with varying internet speeds.
+
+## 🚀 Key Features
+* **Service-Specific Landing Pages:** Dedicated sections for Arthroscopy and Joint Replacement to improve SEO and user clarity.
+* **Patient Education Focus:** Integrated sections for explaining sports injuries and surgical treatments.
+* **Optimized Contact Flow:** Clear, accessible appointment triggers and location mapping for clinic visitors.
+
+## 🛠️ Tech Stack
+* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+
+
+---
+
+
+## 📈 Impact
+* **Professional Branding:** Established a digital identity for a specialist surgeon, bridging the gap between the doctor and international/local patients.
+* **SEO Optimized:** Structured data to help the clinic rank for specific keywords like "Arthroscopy Specialist" and "Sports Medicine."
